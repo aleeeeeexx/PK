@@ -60,7 +60,7 @@ h3 {
     footer {
         padding-top: 150px;
      font-family: 'Open Sans', sans-serif;
-     font-size: 15px;
+    
     text-align: left;
    
     font-weight: 300;
@@ -85,11 +85,20 @@ p {
     font-family: 'Open Sans', sans-serif;
     font-size: 19px;
     font-weight: 700;
-    margin-left: 43.5%;
+
     background-color:rgb(255, 0, 128);
     color: white;
     padding-top: 20px;
     padding-left: 60px;
     padding-right: 40px;
     padding-bottom: 20px;
+}
+
+.wiki {
+
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    color:rgb(255, 0, 128);
+   
+    font-weight: 300;
 }
